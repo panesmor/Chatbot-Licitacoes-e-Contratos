@@ -1,0 +1,39 @@
+# Chatbot de Licitações e Contratos - CEMIG
+
+Este projeto consiste no desenvolvimento de um chatbot inteligente para atendimento aos usuários dos processos de licitações e contratos da CEMIG, utilizando técnicas avançadas de Processamento de Linguagem Natural (PLN) e arquitetura Retrieval-Augmented Generation (RAG).
+
+## Objetivos
+
+- Automatizar o atendimento a dúvidas sobre licitações e contratos
+- Promover agilidade, autonomia e padronização nas interações
+- Alinhar-se às normas institucionais e aos princípios da transformação digital no setor público
+
+## Tecnologias Utilizadas
+
+- **PLN com modelos de linguagem**
+- **Arquitetura RAG** para recuperação e geração de respostas
+- **Validação com RAGAS**: acurácia superior a 86% e mais de 80% em *faithfulness*
+- **FAISS, LangChain, Streamlit** para implementação e interface
+
+## Resultados da Pesquisa de Satisfação
+
+Uma pesquisa foi realizada com 25 usuários (16,7% do universo de 150 usuários ativos). As médias das respostas às perguntas de satisfação foram:
+
+| Pergunta | Média |
+|---------|-------|
+| O atendimento pelo chatbot foi prático e fácil de utilizar? | 5.00 |
+| O tempo de atendimento do chatbot atendeu sua expectativa? | 4.92 |
+| As respostas fornecidas pelo chatbot foram úteis para esclarecer suas dúvidas? | 4.56 |
+| O chatbot compreendeu suas dúvidas sobre licitações e contratos? | 4.52 |
+| Você entende o chatbot contribui para esclarecer dúvidas sobre licitações e contratos? | 4.96 |
+
+## Conclusões
+
+Os resultados indicam alto grau de satisfação dos usuários, especialmente nos aspectos de usabilidade, tempo de atendimento e contribuição para esclarecimento de dúvidas. O projeto demonstrou robustez técnica e potencial de expansão, sendo uma solução replicável para outras áreas da CEMIG e instituições públicas ou privadas.
+
+## Futuras Melhorias
+
+- Expansão da base documental
+- Integração com fontes externas
+- Personalização da interface e experiência do usuário
+- Incorporação de recursos multimodais
